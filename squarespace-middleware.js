@@ -8,7 +8,7 @@ var _ = require( "underscore" ),
     cookieParser = require( "cookie" ),
     sqsLogger = require( "node-squarespace-logger" ),
 
-    API_AUTH_LOGIN = "/api/auth/Login/",
+    API_AUTH_LOGIN = "/api/1/auth/Login/",
     API_GET_SITELAYOUT = "/api/commondata/GetSiteLayout/",
     API_GET_COLLECTIONS = "/api/commondata/GetCollections/",
     API_GET_COLLECTION = "/api/commondata/GetCollection/",
