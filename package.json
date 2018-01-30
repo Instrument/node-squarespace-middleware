@@ -1,28 +1,32 @@
 {
-  "title": "Node Squarespace Middleware",
-  "name": "node-squarespace-middleware",
-  "description": "Interface with a Squarespace site using a node.js application.",
-  "version": "0.3.1",
-  "homepage": "https://github.com/NodeSquarespace/node-squarespace-middleware",
+  "title": "Instrument Node Squarespace Middleware",
+  "name": "@instrument/instrument-node-squarespace-middleware",
+  "description": "Interface with a Squarespace site using a node.js application. This is a fork of https://github.com/NodeSquarespace/node-squarespace-middleware",
+  "version": "0.3.2",
+  "homepage": "https://github.com/Instrument/node-squarespace-middleware",
   "readmeFilename": "README.md",
   "contributors": [
     {
       "name": "Brandon Kitajchuk",
       "email": "kitajchuk@gmail.com",
       "url": "http://blkpdx.com"
+    },
+    {
+      "name": "Grace Mekarski",
+      "email": "grace@instrument.com"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/NodeSquarespace/node-squarespace-middleware.git"
+    "url": "git://github.com/Instrument/node-squarespace-middleware.git"
   },
   "bugs": {
-    "url": "https://github.com/NodeSquarespace/node-squarespace-middleware/issues"
+    "url": "https://github.com/Instrument/node-squarespace-middleware/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/NodeSquarespace/node-squarespace-middleware/blob/master/LICENSE"
+      "url": "https://github.com/Instrument/node-squarespace-middleware//blob/master/LICENSE"
     }
   ],
   "main": "squarespace-middleware",
